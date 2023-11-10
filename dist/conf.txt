@@ -1,0 +1,2 @@
+[Excel_local]
+local = C:/Users/luiz.serpeloni/OneDrive - UPPERTOOLS TECNOLOGIA DA INFORMACAO/INFRA/Planilha Datas VPN.xlsx
